@@ -1,6 +1,6 @@
 # Letter_game
 
-To run the python file in comman prompt:  C:\python27\game.exe
+To run the python file in comman prompt:  C:\python27\python.exe game.py
 Or use the pycharm software.
 
 
