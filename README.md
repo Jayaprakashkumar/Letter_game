@@ -24,5 +24,7 @@ You found 1 letters
 Current Guess: --a
 
 g = guess, t = tell me, l for a letter, and q to quit
-This process continues until the user either gets the answer right or gives up.
+This process continues until the user either gets the answer right or gives up.This process continues until the user either gets the answer right or gives up.
+
+
 
