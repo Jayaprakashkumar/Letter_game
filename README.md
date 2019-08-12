@@ -1,8 +1,8 @@
 # Letter_game
 
-To run the python file in comman prompt:  C:\python27\python.exe game.py
-
-Or use the pycharm software.
+To run the python file :
+1. comman prompt:  C:\python27\python.exe guess.py
+2. use the pycharm software.
 
 
 Four letter word finder using Python
