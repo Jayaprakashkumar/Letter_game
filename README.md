@@ -1,5 +1,9 @@
 # Letter_game
 
+To run the python file in comman prompt:  C:\python27\game.exe
+Or use the pycharm software.
+
+
 Four letter word finder using Python
 
 The user will be asked to guess 4-letter words. To make this realistic, we must utilize a large list of possible words. For this purpose, I have provided a text file containing 4030 4-letter English words.
@@ -25,6 +29,4 @@ Current Guess: --a
 
 g = guess, t = tell me, l for a letter, and q to quit
 This process continues until the user either gets the answer right or gives up.This process continues until the user either gets the answer right or gives up.
-
-
 
